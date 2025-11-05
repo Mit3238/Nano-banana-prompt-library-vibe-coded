@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "An AI-powered image editing, generation, and analysis tool using Gemini. Users can upload photos, apply edits with text prompts, generate new images from scratch, and get detailed descriptions of their pictures.",
+  "requestFramePermissions": []
+}
